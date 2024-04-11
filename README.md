@@ -1,1 +1,3 @@
-Here it is the project about the money-tracker app adding expenses and income 
+Created a money tracker app for
+managing expenses and income using
+HTML, CSS, Node.js, and MongoDB.
